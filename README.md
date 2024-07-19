@@ -17,7 +17,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-5. Run the notebook (svm.ipynb)
+5. Run the notebook (rl.ipynb)
 
 6. To deactivate virtual environment run this:
 ```
